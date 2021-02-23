@@ -1,0 +1,44 @@
+.pd01 {
+    display: block;
+    margin-top: 10px;
+    margin-right: 5px;
+    text-align: center;
+    width: 20px;
+    height: 20px;
+    border-radius: 5px;
+    background-color: red;
+    float: left;
+}
+.pd02 {
+    display: block;
+    margin-top: 10px;
+    margin-right: 5px;
+    text-align: center;
+    width: 20px;
+    height: 20px;
+    border-radius: 5px;
+    background-color: rgb(255, 102, 102);
+    float: left;
+}
+.pd03 {
+    display: block;
+    margin-top: 10px;
+    margin-right: 5px;
+    text-align: center;
+    width: 20px;
+    height: 20px;
+    border-radius: 5px;
+    background-color: rgb(255, 196, 196);
+    float: left;
+}
+.pdty {
+    display: block;
+    margin-top: 10px;
+    margin-right: 5px;
+    text-align: center;
+    width: 20px;
+    height: 20px;
+    border-radius: 5px;
+    background-color: rgb(185, 185, 185);
+    float: left;
+}

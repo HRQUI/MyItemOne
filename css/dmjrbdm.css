@@ -1,0 +1,240 @@
+.recommend_content .UiImg01 {
+    position: relative;
+    display: block;
+    width: 240px;
+    height: 140px;
+    background-image: url(../images/tp/2dba9e9adbbcff5a72786f9af81c835a.jpeg);
+    background-size: cover;
+    border-radius: 4px;
+    overflow: hidden;
+}
+.recommend_content .UiImg02 {
+    position: relative;
+    display: block;
+    width: 240px;
+    height: 140px;
+    background-image: url(../images/tp/16c4c06e3b40cb3d355d1f86d8ef62a7.jpeg);
+    background-size: cover;
+    border-radius: 4px;
+    overflow: hidden;
+}
+.recommend_content .UiImg03 {
+    position: relative;
+    display: block;
+    width: 240px;
+    height: 140px;
+    background-image: url(../images/tp/a17ac5fe7bc800f5c1ab519bf1cfcbe4.jpeg);
+    background-size: cover;
+    border-radius: 4px;
+    overflow: hidden;
+}
+.recommend_content .UiImg04 {
+    position: relative;
+    display: block;
+    width: 240px;
+    height: 140px;
+    background-image: url(../images/tp/ec75ea4ffe06e865f8d66b743a44629c.jpeg);
+    background-size: cover;
+    border-radius: 4px;
+    overflow: hidden;
+}
+.recommend_content .UiImg05 {
+    position: relative;
+    display: block;
+    width: 240px;
+    height: 140px;
+    background-image: url(../images/tp/e74fca870c630f594358cce7537796ad.jpeg);
+    background-size: cover;
+    border-radius: 4px;
+    overflow: hidden;
+}
+.recommend_content .UiImg06 {
+    position: relative;
+    display: block;
+    width: 240px;
+    height: 140px;
+    background-image: url(../images/tp/3665d313ea02041856d67a3f3627bf96.jpeg);
+    background-size: cover;
+    border-radius: 4px;
+    overflow: hidden;
+}
+.recommend_content .UiImg07 {
+    position: relative;
+    display: block;
+    width: 240px;
+    height: 140px;
+    background-image: url(../images/tp/fa756b39fba3a7c3e52e1c09cf273cef.jpg);
+    background-size: cover;
+    border-radius: 4px;
+    overflow: hidden;
+}
+.recommend_content .UiImg08 {
+    position: relative;
+    display: block;
+    width: 240px;
+    height: 140px;
+    background-image: url(../images/tp/eba7e9a29f0685a379a86b010b8222df.jpeg);
+    background-size: cover;
+    border-radius: 4px;
+    overflow: hidden;
+}
+.recommend_content .UiImg09 {
+    position: relative;
+    display: block;
+    width: 240px;
+    height: 140px;
+    background-image: url(../images/tp/70984f9ee28faeeb922cec0a67dbb210.jpeg);
+    background-size: cover;
+    border-radius: 4px;
+    overflow: hidden;
+}
+.recommend_content .UiImg010 {
+    position: relative;
+    display: block;
+    width: 240px;
+    height: 140px;
+    background-image: url(../images/tp/a7001c2e7e7347ac1fd420083d0f2a36.jpeg);
+    background-size: cover;
+    border-radius: 4px;
+    overflow: hidden;
+}
+.ltj_content .UiImg01 {
+    position: relative;
+    display: block;
+    width: 240px;
+    height: 140px;
+    background-image: url(../images/tp/ca0b3f58872ca90122a8338851d28386.jpg);
+    background-size: cover;
+    border-radius: 4px;
+    overflow: hidden;
+}
+.ltj_content .UiImg02 {
+    position: relative;
+    display: block;
+    width: 240px;
+    height: 140px;
+    background-image: url(../images/tp/0497b5b483c1df762c6e1af56beaf664.jpeg);
+    background-size: cover;
+    border-radius: 4px;
+    overflow: hidden;
+}
+.ltj_content .UiImg03 {
+    position: relative;
+    display: block;
+    width: 240px;
+    height: 140px;
+    background-image: url(../images/tp/e16528f8c1d8d860afc64d3c5bebbd49.jpg);
+    background-size: cover;
+    border-radius: 4px;
+    overflow: hidden;
+}
+.ltj_content .UiImg04 {
+    position: relative;
+    display: block;
+    width: 240px;
+    height: 140px;
+    background-image: url(../images/tp/8ba90a5c873cfccdbb7de286d0ae9730.jpeg);
+    background-size: cover;
+    border-radius: 4px;
+    overflow: hidden;
+}
+.ltj_content .UiImg05 {
+    position: relative;
+    display: block;
+    width: 240px;
+    height: 140px;
+    background-image: url(../images/tp/cae06dba24238082b8e1dee33b964923.jpeg);
+    background-size: cover;
+    border-radius: 4px;
+    overflow: hidden;
+}
+.ltj_content .UiImg06 {
+    position: relative;
+    display: block;
+    width: 240px;
+    height: 140px;
+    background-image: url(../images/tp/31dc4f9da3f7fd1da85bfc7b04a20453.jpeg);
+    background-size: cover;
+    border-radius: 4px;
+    overflow: hidden;
+}
+.lwz_content .UiImg01 {
+    position: relative;
+    display: block;
+    width: 160px;
+    height: 240px;
+    background-image: url(../images/tp/a183a0f1ly1gnt1gnf53ej20jg0rgdlk.jpg);
+    background-size: cover;
+    border-radius: 4px;
+    overflow: hidden;
+}
+.lwz_content .UiImg02 {
+    position: relative;
+    display: block;
+    width: 160px;
+    height: 240px;
+    background-image: url(../images/tp/006RKGBpgy1gnttgy00q3j31f71z4wx2.jpg);
+    background-size: cover;
+    border-radius: 4px;
+    overflow: hidden;
+}
+.lwz_content .UiImg03 {
+    position: relative;
+    display: block;
+    width: 160px;
+    height: 240px;
+    background-image: url(../images/tp/5fe92a05gy1gnncl2muexj20u016fnpe.jpg);
+    background-size: cover;
+    border-radius: 4px;
+    overflow: hidden;
+}
+.lwz_content .UiImg04 {
+    position: relative;
+    display: block;
+    width: 160px;
+    height: 240px;
+    background-image: url(../images/tp/5fe92a05gy1gne62n04k5j20mx0xcwlu.jpg);
+    background-size: cover;
+    border-radius: 4px;
+    overflow: hidden;
+}
+.lwz_content .UiImg05 {
+    position: relative;
+    display: block;
+    width: 160px;
+    height: 240px;
+    background-image: url(../images/tp/5fe92a05gy1gns23jfrm8j20rs13wu0y.jpg);
+    background-size: cover;
+    border-radius: 4px;
+    overflow: hidden;
+}
+.lwz_content .UiImg06 {
+    position: relative;
+    display: block;
+    width: 160px;
+    height: 240px;
+    background-image: url(../images/tp/72f3cbc18310a59fa55d3fe483aee264.jpeg);
+    background-size: cover;
+    border-radius: 4px;
+    overflow: hidden;
+}
+.lwz_content .UiImg07 {
+    position: relative;
+    display: block;
+    width: 160px;
+    height: 240px;
+    background-image: url(../images/tp/5fe92a05gy1gn90ij78xnj20ku0tdb29.jpg);
+    background-size: cover;
+    border-radius: 4px;
+    overflow: hidden;
+}
+.lwz_content .UiImg08 {
+    position: relative;
+    display: block;
+    width: 160px;
+    height: 240px;
+    background-image: url(../images/tp/6ee159cbly1gn744rn1ghj20g40mlthu.jpg);
+    background-size: cover;
+    border-radius: 4px;
+    overflow: hidden;
+}
